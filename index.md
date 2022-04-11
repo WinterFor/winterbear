@@ -1,10 +1,7 @@
 ---
 layout: home
-permalink: "/"
-title: Athena Jekyll Theme
+permalink: /
+title: Here lives a winter bear
 
 ---
-
-A simple and elegant theme for Jekyll and GitHub Pages.
-
-
+Share what Bear has learned
